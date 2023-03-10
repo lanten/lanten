@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=lanten&color=blueviolet)
+<!-- ![](https://komarev.com/ghpvc/?username=lanten&color=blueviolet) -->
 
 ![github-state](https://github-readme-stats.vercel.app/api?username=lanten)
 
