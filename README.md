@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=lanten&color=blueviolet)
+
 ![github-state](https://github-readme-stats.vercel.app/api?username=lanten)
 
 ![github-toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=lanten&layout=compact&langs_count=8&hide_title=true&hide=html)
