@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/8c99e528-1d05-4a81-a7cd-98807c29638a.svg)](https://wakatime.com/@8c99e528-1d05-4a81-a7cd-98807c29638a)
+
 <!-- ![](https://komarev.com/ghpvc/?username=lanten&color=blueviolet) -->
 
 <!-- ![github-state](https://github-readme-stats.vercel.app/api?username=lanten) -->
